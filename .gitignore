@@ -1,0 +1,18 @@
+# Python cache / virtualenv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Runtime artifacts
+logs/*.log
+data/*.db
+data/*.sqlite
+*.png
+
+# Local env files (token etc.)
+.env
