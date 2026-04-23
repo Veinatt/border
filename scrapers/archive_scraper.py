@@ -21,10 +21,7 @@ ARCHIVE_URL = "https://gpk.gov.by/situation-at-the-border/arkhiv-ocheredey/"
 
 CHECKPOINTS = [
     "Брест",
-    "Брузги",
-    "Каменный Лог",
     "Бенякони",
-    "Козловичи",
     "Берестовица",
 ]
 
